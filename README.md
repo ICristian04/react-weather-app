@@ -42,3 +42,5 @@ A simple and responsive weather application built with React for learning purpos
     npm start
     ```
 ![image](https://github.com/ICristian04/react-weather-app/assets/102360722/fcf3eade-7ac3-4e95-90ab-297ddad7e9bf)
+![image](https://github.com/ICristian04/react-weather-app/assets/102360722/91633b1e-96eb-42c0-8c5e-232169f73803)
+![image](https://github.com/ICristian04/react-weather-app/assets/102360722/178af6f1-62d5-48a5-8f5a-c128d409c313)
