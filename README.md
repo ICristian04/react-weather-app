@@ -7,6 +7,7 @@ A simple and responsive weather application built with React for learning purpos
 - **Accurate Weather Information:** Utilizes the AccuWeather API to provide reliable and up-to-date weather data.
 - **Location Autocomplete:** Incorporates the Google Places API for a seamless and user-friendly location search experience.
 - **Responsive Design:** Ensures a consistent and user-friendly experience across both desktop and mobile devices.
+- **Adaptive Design:** Changing the website theme based on weather conditions.
 - **Easy to Use:** Intuitive interface for users to quickly check the weather for any location.
 
 ## Technologies Used
