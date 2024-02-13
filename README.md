@@ -1,6 +1,6 @@
 # React Weather Application
 
-A simple and responsive weather application built with React for learning purposes. This application leverages the AccuWeather API for weather data and the Google Places API for location information.
+A responsive weather application built with React for learning purposes. This application leverages the AccuWeather API for weather data and the Google Places API for location information.
 
 ## Features
 
